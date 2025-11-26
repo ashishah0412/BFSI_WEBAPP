@@ -1,4 +1,4 @@
-name: Build and Push React App to ECR
+name: Build and Push React App to AWS ECR
 
 on:
   push:
